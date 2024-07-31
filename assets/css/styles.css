@@ -1,0 +1,18 @@
+/* Custom styles */
+body {
+    padding-top: 56px; /* Adjust for fixed navbar */
+}
+
+.avatar {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    border-radius: 50%;
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+}
